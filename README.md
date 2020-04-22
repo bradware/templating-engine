@@ -1,5 +1,7 @@
 # Templating Engine
 
+Given input returns a rendered output based on a set of rules.
+
 ## Dependencies
 
 - Java 8 (1.8.0_111)
@@ -50,8 +52,3 @@ Obviously this solution is not anywhere complete. Michael said to spend about an
   - Documenting clearly the directive structure supported
 
 This just scratches the surface of the work that could be put into this project.
-
-
-## Summary
-
-I really enjoyed working on this problem and would be happy to talk through my code, design decisions, and next steps to build on top of this as well. I am doing a hackathon this week at FB so it's a little busy but I could definitely put more time into this next week. Thanks for giving me the opportunity to work on this!
